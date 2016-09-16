@@ -1,2 +1,2 @@
 # SnakeBae
-Description to come
+Short for snake baby
